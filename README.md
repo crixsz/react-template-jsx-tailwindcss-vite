@@ -12,7 +12,13 @@ Currently, two official plugins are available:
 git clone https://github.com/crixsz/react-template-jsx-tailwindcss-vite
 ```
 
-# Step 2: Install the packages
+# Step 2: Remove the original git of this repo by deleting .git
+
+# Step 3: Reinit the git
+```
+git init
+```
+# Step 4: Install the packages
 ```
 pnpm install
 ```
